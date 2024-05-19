@@ -45,9 +45,10 @@ end
 
 ##### Our Report
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Julia Tapia
+2.  Aurora Arnone
+3.  Laura Podaru
+4.  
 
 ###### Header 6
 
