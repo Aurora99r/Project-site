@@ -50,17 +50,12 @@ end
 3.  Laura Podaru
 4.  
 
-###### Header 6
+Methodology: Wikidata, Data Sources - Challenges
+SPARQL Dati cultura
+-Pros:
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
+Cons:
 * * *
 
 ### Here is an unordered list:
