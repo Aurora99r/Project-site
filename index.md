@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to our American Music Icons website. We are Juliana, Aurora, Laura and , first year students of the second cycle degree in Language, Society and Communication at the University of Bologna and two from Universidad National de Colombia and...?
+Welcome to our American Music Icons website. We are Juliana, Aurora, Laura and Alena Vulf, first year students of the second cycle degree in Language, Society and Communication at the University of Bologna and from Universidad National de Colombia.
 
 [Link to another page](./another-page.html).
 
