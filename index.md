@@ -48,7 +48,7 @@ end
 1.  Julia Tapia
 2.  Aurora Arnone
 3.  Laura Podaru
-4.  
+4.  Alena Vulf
 
 Methodology: Wikidata, Data Sources - Challenges
 SPARQL Dati cultura
