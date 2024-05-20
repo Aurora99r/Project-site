@@ -52,7 +52,8 @@ end
 
 Methodology: Wikidata, Data Sources - Challenges
 SPARQL Dati cultura
--Pros:
+-
+Pros:
 
 
 Cons:
