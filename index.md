@@ -3,6 +3,9 @@ Clothing
 ---
 
 Welcome to our American Music Icons website. We are Juliana, Aurora, Laura and Alena Vulf, first year students of the second cycle degree in Language, Society and Communication at the University of Bologna and from Universidad National de Colombia.
+It focuses on analyzing and using knowledge graphs from ARCO and Large Language Models. The selected ARCO ontology was about clothing description. The main goal of using this ontology is to explore clothing characteristics and compare LLMS with the better option to enrich the knowledge graph.
+In the following parts you will have information about the methodology, results and analysis, discussion, conclusion and possible future developments.
+
 
 [Link to another page](./another-page.html).
 
