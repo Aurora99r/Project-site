@@ -71,7 +71,7 @@ LIMIT 3
 3.  Laura Podaru
 4.  Alena Vulf
 
-Methodology: Wikidata, Data Sources - Challenges
+Methodology: github, SPARQL, ARCO, CHAT GPT, Challenges
 SPARQL Dati cultura
 -
 Pros:
