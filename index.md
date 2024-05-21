@@ -10,6 +10,7 @@ In the following parts you will have information about the methodology, results 
 
 
 
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
