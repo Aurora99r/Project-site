@@ -16,8 +16,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-#METHODOLOGY 
-Tools
+#METHODOLOGY  Tools
 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -46,6 +45,20 @@ end
 ```
 
 #### Header 4
+SPARQL QUERIES
+There are any military uniforms in the clothing description ontology?
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX arco: <https://w3id.org/arco/ontology/arco/>
+PREFIX a-cd: <https://w3id.org/arco/ontology/clothing-description/>
+PREFIX agent: <https://w3id.org/arco/resource/Agent/>
+SELECT *
+WHERE {
+?Clothing
+rdfs:label ?label 
+FILTER(REGEX(?label, "uniforme, militare"))
+}
+LIMIT 3
+
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
