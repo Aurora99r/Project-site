@@ -1,5 +1,5 @@
 ---
-**ALL ABOUT ARCO CLOTHES**
+1. ALL ABOUT ARCO CLOTHES
 ---
 Welcome to our website, we are Laura, Alena, Aurora and Juliana. This project is part of an academic assessment for the "Information and Technology Skills" course in the Master's program "Language, Society, and Communication" at the University of Bologna. 
 
