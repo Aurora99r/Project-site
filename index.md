@@ -1,6 +1,6 @@
 ---
 
- ALL ABOUT ARCO CLOTHES
+ALL ABOUT ARCO CLOTHES
 ---
 Welcome to our website, we are Laura, Alena, Aurora and Juliana. This project is part of an academic assessment for the "Information and Technology Skills" course in the Master's program "Language, Society, and Communication" at the University of Bologna. 
 
@@ -8,26 +8,15 @@ It focuses on analyzing and using knowledge graphs from ARCO and Large Language 
 
 In the following parts you will have information about the methodology, results and analysis, discussion, conclusion and possible future developments.
 
-
-
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-#METHODOLOGY  
-Tools
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 ## Methodologyyyyyy
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+The tools used for developing this project were: 
+GITHUB (Image- logo) (Links)
+SPARQL (Image- logo) (Links)
+ARCO (Image- logo) (Links)
+CHAT GPT (Image- logo) (Links)
+GEMINI (Image- logo) (Links)
+LLAMA (Image- logo) (Links)
+Class material (Image- logo) (Links)
 
 ### Header 3
 
