@@ -8,43 +8,31 @@ It focuses on analyzing and using knowledge graphs from ARCO and Large Language 
 
 In the following parts you will have information about the methodology, results and analysis, discussion, conclusion and possible future developments.
 
-
-
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-#METHODOLOGY  
-Tools
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 ## Methodology
+The tools used for developing this project were: 
+GITHUB (Image- logo) (Links)
+SPARQL (Image- logo) (Links)
+ARCO (Image- logo) (Links)
+CHAT GPT (Image- logo) (Links)
+GEMINI (Image- logo) (Links)
+LLAMA (Image- logo) (Links)
+Class material (Image- logo) (Links)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Prompting techniques
+The LLMS used were: CHAT GPT, LLAMA,  GEMINI.
+The prompting techniques used were Zero-shot Prompting, Few-Shot Prompting, Chain-of-thought, and Generated-knowledge-prompting. To enrich the knowledge graph we asked the following questions:
+Enhance the "a-cd:subject" Relationship
+Cultural Property: Cappotto, maschile – Novità Confezioni Italiane Eleganza (XX secolo)
+Owner: Damiano Chiesa
+What are the craftsmanship techniques used in the 'Cappotto, maschile – Novità Confezioni Italiane Eleganza'?
+Take into account that Craftsmanship is the skill that someone uses when they make beautiful things with their hands. 
+Can you extract exactly what the main topics are based on this answer? 
+Could you transform this description into RDF format? Explain the process for getting this RDF format. 
+Could you use the ArCo clothing ontology? 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+The first question corresponds to the few-shot prompting since it provides context on what is a Craftsmanship so the LLM can give more specialized information about it. 
+<img width="1440" alt="1" src="https://github.com/Aurora99r/Project-site/assets/169910091/c55363e5-4df3-46f8-bccf-e222580895b7">
 
 #### Header 4
 SPARQL QUERIES
